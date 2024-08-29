@@ -4,4 +4,5 @@ Ce projet est un dépôt temporaire pour améliorer ma maîtrise des forks et de
 
 Si aucun conflit n'est présente la synchronisation est simple et réalisable depuis github.
 
-La présence d'un conflit ne permettra pas de synchroniser directement le dépôt.
+
+La présence d'un conflit ne va pas permettre de synchroniser de manière directe le dépôt. Git et GitHub ne peuvent pas définir qu'elle est la meilleure version du document.
